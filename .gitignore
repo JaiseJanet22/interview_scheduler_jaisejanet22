@@ -1,0 +1,13 @@
+# Python related
+*.pyc
+__pycache__/
+
+# Environment files
+*.env
+entri_task_env/
+
+# Database
+db.sqlite3
+
+# Docker files
+*.log
